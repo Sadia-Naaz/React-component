@@ -1,0 +1,11 @@
+.report{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: linear-gradient(to bottom, blue, white);
+}
